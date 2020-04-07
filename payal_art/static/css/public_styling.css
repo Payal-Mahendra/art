@@ -1,0 +1,72 @@
+.img-circle
+{
+	max-width: 40%;
+	height: 20%;
+  padding-top: 0px;
+}
+.page-header
+{
+    font-style: italic;
+    font-family: cursive;
+	color: black;
+	text-align: center; 
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: white;
+  background-color: #73707D;
+  text-align: center;
+  width: 80%;
+  margin: 20px auto 0px;
+  padding: 20px 0px;
+}
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+.navbar
+		{
+    
+			background-color: #3E606F;
+		}
+.navbar .navbar-nav ul {
+    list-style-type: none;
+    float: right;
+}
+.navbar .navbar-nav li a
+{
+	color: white;
+	text-align: center;
+    padding: 20px 28px;
+    text-decoration: none;
+	
+	}  
+.navbar .navbar-nav li a:hover
+{
+	border-bottom: 1px solid #fff;
+}
+.navbar .navbar-nav .dropdown-toggle .dropdown-menu
+{
+	background-color: #3E606F;
+	width: 210px;
+}
+.navbar .navbar-nav .dropdown-toggle .dropdown-menu li a
+{
+	color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.well
+{
+  background-color: white;
+  padding-top: 30px;
+  margin-left: 500px;
+  margin-top: 100px;
+  height: 200px;
+  width: 400px;
+}
